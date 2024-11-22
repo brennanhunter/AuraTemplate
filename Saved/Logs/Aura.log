@@ -3799,3 +3799,361 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-01.45.59:485][922]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2024.11.22-01.45.59:485][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.11.22-01.45.59:540][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.11.22-01.47.53:334][450]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.22-01.47.53:343][450]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.22-01.47.53:352][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.22-01.47.56:013][749]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2024.11.22-01.47.56:016][749]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.22-01.47.58:694][ 48]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.22-01.47.58:703][ 48]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.22-01.47.58:756][ 50]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.22-01.48.03:142][549]LogContentBrowser: Attempting asset rename: NewFolder -> InputActions
+[2024.11.22-01.48.03:142][549]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.22-01.48.17:333][204]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.11.22-01.48.17:340][204]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.11.22-01.48.17:398][206]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.11.22-01.48.24:803][ 49]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.11.22-01.48.24:805][ 49]LogContentBrowser: End creating deferred item NewInputAction
+[2024.11.22-01.48.26:423][229]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Input/InputActions/IA_Move.IA_Move
+[2024.11.22-01.48.51:898][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 267952.687500
+[2024.11.22-01.48.51:998][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.48.51:998][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 267952.687500, Update Interval: 319.032562
+[2024.11.22-01.49.31:918][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-01.49.31:950][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/InputActions/IA_Move] ([1] browsable assets)...
+[2024.11.22-01.49.31:950][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/InputActions/IA_Move]
+[2024.11.22-01.49.31:951][442]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/InputActions/IA_Move
+[2024.11.22-01.49.31:951][442]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/IA_MoveD72CA0E8448614F8897A17A0300ABFEF.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Blueprints/Input/InputActions/IA_Move.uasset'
+[2024.11.22-01.49.31:960][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.362 ms (total: 1.14 sec)
+[2024.11.22-01.49.31:999][442]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-01.49.31:999][442]LogContentValidation: Enabled validators:
+[2024.11.22-01.49.31:999][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-01.49.31:999][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-01.49.31:999][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-01.49.31:999][442]LogContentValidation: Display: Validating asset /Game/Blueprints/Input/InputActions/IA_Move.IA_Move
+[2024.11.22-01.49.31:999][442]AssetCheck: /Game/Blueprints/Input/InputActions/IA_Move Validating asset
+[2024.11.22-01.49.50:866][704]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 2ee...07b
+[2024.11.22-01.49.50:868][704]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.547e+07
+[2024.11.22-01.49.50:968][716]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 2ee...07b Access[Expires: 2024.11.22-03.49.50 Remaining: 7200.84] Refresh[Expires: 2025-05-20T02:09:34.111Z Remaining: 15466784.11] State: Valid
+[2024.11.22-01.53.57:234][203]LogDerivedDataCache: C:/Users/brenn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.22-01.54.53:810][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 268290.437500
+[2024.11.22-01.54.54:811][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.54.54:811][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 268291.125000, Update Interval: 342.838837
+[2024.11.22-02.01.11:556][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 268679.906250
+[2024.11.22-02.01.12:556][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-02.01.12:556][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 268680.593750, Update Interval: 303.052460
+[2024.11.22-02.05.30:122][120]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.11.22-02.05.30:128][120]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.11.22-02.05.30:161][121]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.11.22-02.05.40:775][543]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC
+[2024.11.22-02.05.40:776][543]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.11.22-02.05.53:894][772]LogContentBrowser: Attempting asset rename: IMC -> IMC_AuraContext
+[2024.11.22-02.05.54:096][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.05.54:132][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/IMC_AuraContext] ([1] browsable assets)...
+[2024.11.22-02.05.54:132][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/IMC_AuraContext]
+[2024.11.22-02.05.54:133][772]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/IMC_AuraContext
+[2024.11.22-02.05.54:133][772]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/IMC_AuraContext0234F5C648221CB283BB4F8A3B5EE42E.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Blueprints/Input/IMC_AuraContext.uasset'
+[2024.11.22-02.05.54:146][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.218 ms (total: 1.19 sec)
+[2024.11.22-02.05.54:186][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.11.22-02.05.54:212][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.11.22-02.05.54:223][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.22-02.05.54:266][772]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.05.54:266][772]LogContentValidation: Enabled validators:
+[2024.11.22-02.05.54:266][772]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.05.54:266][772]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.05.54:266][772]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.05.54:266][772]LogContentValidation: Display: Validating asset /Game/Blueprints/Input/IMC_AuraContext.IMC_AuraContext
+[2024.11.22-02.05.54:266][772]AssetCheck: /Game/Blueprints/Input/IMC_AuraContext Validating asset
+[2024.11.22-02.05.55:589][909]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Input/IMC_AuraContext.IMC_AuraContext
+[2024.11.22-02.07.08:398][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 268953.468750
+[2024.11.22-02.07.08:497][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-02.07.08:497][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 268953.468750, Update Interval: 343.928345
+[2024.11.22-02.07.29:842][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.11.22-02.07.29:847][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.022
+[2024.11.22-02.07.29:847][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/IMC_AuraContext] ([1] browsable assets)...
+[2024.11.22-02.07.29:847][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/IMC_AuraContext]
+[2024.11.22-02.07.29:848][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Input/IMC_AuraContext_Auto3
+[2024.11.22-02.07.29:848][826]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/IMC_AuraContext_Auto3BEC330014C394514D741239EE8B8CE2D.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/Autosaves/Game/Blueprints/Input/IMC_AuraContext_Auto3.uasset'
+[2024.11.22-02.07.29:850][826]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.11.22-02.10.12:561][110]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.22-02.10.18:984][811]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.11.22-02.10.18:984][811]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.11.22-02.10.18:990][811]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/StartupMap.StartupMap:PersistentLevel.PlayerStart_0
+[2024.11.22-02.10.18:991][811]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.22-02.10.18:995][811]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/StartupMap.StartupMap:PersistentLevel.PlayerStart_0
+[2024.11.22-02.10.18:996][811]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.22-02.10.19:549][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.11.22-02.10.19:558][862]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2024.11.22-02.10.19:562][862]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.11.22-02.10.19:563][862]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.11.22-02.10.19:568][862]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/StartupMap.StartupMap:PersistentLevel.PlayerStart_1
+[2024.11.22-02.10.19:568][862]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.22-02.10.19:568][862]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/StartupMap.StartupMap:PersistentLevel.PlayerStart_1
+[2024.11.22-02.10.19:568][862]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.22-02.10.20:527][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-02.10.20:553][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-02.10.20:596][957]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.11.22-02.10.20:597][957]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.11.22-02.10.20:598][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.11.22-02.10.20:607][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008999s)
+[2024.11.22-02.10.20:607][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.009097s)
+[2024.11.22-02.10.20:623][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.22-02.10.20:628][957]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-02.10.20:635][957]LogPlayLevel: PIE: World Init took: (0.010569s)
+[2024.11.22-02.10.20:662][957]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.22-02.10.20:663][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-02.10.20:663][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-02.10.20:663][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-02.10.20:664][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-02.10.20:664][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-02.10.20:664][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-02.10.20:664][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-02.10.20:664][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-02.10.20:666][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-02.10.20:666][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-02.10.20:666][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-02.10.20:670][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-02.10.20:690][957]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.22-02.10.20:692][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-02.10.20:692][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-02.10.20:693][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-02.10.20:696][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.11.22-02.10.20:696][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.11.22-02.10.20:697][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.11.22-02.10.20:698][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.11.22-02.10.20:698][957]LogInit: FAudioDevice initialized with ID 2.
+[2024.11.22-02.10.20:698][957]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartupMap'.
+[2024.11.22-02.10.20:699][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.22-02.10.20:717][957]LogLoad: Game class is 'GameModeBase'
+[2024.11.22-02.10.20:721][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.11.21-21.10.20
+[2024.11.22-02.10.20:722][957]LogWorld: Bringing up level for play took: 0.003246
+[2024.11.22-02.10.20:728][957]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.11.22-02.10.20:825][957]PIE: Server logged in
+[2024.11.22-02.10.20:827][957]PIE: Play in editor total start time 0.286 seconds.
+[2024.11.22-02.10.23:025][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-02.10.23:025][125]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.11.22-02.10.23:027][125]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.10.23:027][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.10.23:029][125]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-02.10.23:029][125]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-02.10.23:035][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-02.10.23:042][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.10.23:060][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-02.10.23:061][125]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.22-02.10.23:063][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.22-02.10.23:068][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.22-02.10.23:078][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.11.22-02.10.23:160][126]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.11.22-02.12.07:890][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.12.07:927][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/IMC_AuraContext] ([1] browsable assets)...
+[2024.11.22-02.12.07:927][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/IMC_AuraContext]
+[2024.11.22-02.12.07:929][134]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/IMC_AuraContext
+[2024.11.22-02.12.07:931][134]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/IMC_AuraContextC8B344344E23C18019346DAB393CC0CF.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Blueprints/Input/IMC_AuraContext.uasset'
+[2024.11.22-02.12.07:938][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.328 ms (total: 1.24 sec)
+[2024.11.22-02.12.07:973][134]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.12.07:974][134]LogContentValidation: Enabled validators:
+[2024.11.22-02.12.07:974][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.12.07:974][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.12.07:974][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.12.07:974][134]LogContentValidation: Display: Validating asset /Game/Blueprints/Input/IMC_AuraContext.IMC_AuraContext
+[2024.11.22-02.12.07:974][134]AssetCheck: /Game/Blueprints/Input/IMC_AuraContext Validating asset
+[2024.11.22-02.12.27:270][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Aura/BP_AuraCharacter.BP_AuraCharacter
+[2024.11.22-02.12.55:618][517]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.22-02.12.55:630][517]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.22-02.12.55:637][517]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.22-02.12.55:649][518]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.22-02.13.09:145][888]LogContentBrowser: Attempting asset rename: NewBlueprint -> AuraPlayerController
+[2024.11.22-02.13.09:153][888]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.22-02.13.14:340][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Aura/AuraPlayerController.AuraPlayerController
+[2024.11.22-02.13.33:709][372]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.22-02.13.33:723][372]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.22-02.13.33:734][373]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.22-02.13.36:571][708]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2024.11.22-02.13.36:572][708]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.22-02.13.45:431][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 269079.843750
+[2024.11.22-02.13.45:512][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-02.13.45:512][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 269079.843750, Update Interval: 333.351837
+[2024.11.22-02.13.45:717][472]LogMetaData: Removing '/Game/Blueprints/Player/AuraPlayerController.AuraPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/Aura/AuraPlayerController.PackageMetaData'
+[2024.11.22-02.13.45:718][472]LogMetaData: Removing '/Game/Blueprints/Player/AuraPlayerController.SKEL_AuraPlayerController_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Character/Aura/AuraPlayerController.PackageMetaData'
+[2024.11.22-02.13.45:718][472]LogMetaData: Removing '/Game/Blueprints/Player/AuraPlayerController.SKEL_AuraPlayerController_C' ref from Metadata '/Game/Blueprints/Character/Aura/AuraPlayerController.PackageMetaData'
+[2024.11.22-02.13.45:718][472]LogMetaData: Removing '/Game/Blueprints/Player/AuraPlayerController.AuraPlayerController_C' ref from Metadata '/Game/Blueprints/Character/Aura/AuraPlayerController.PackageMetaData'
+[2024.11.22-02.13.45:718][472]LogMetaData: Removing '/Game/Blueprints/Player/AuraPlayerController.AuraPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/Aura/AuraPlayerController.PackageMetaData'
+[2024.11.22-02.13.45:718][472]LogMetaData: Removing '/Game/Blueprints/Player/AuraPlayerController.AuraPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/Aura/AuraPlayerController.PackageMetaData'
+[2024.11.22-02.13.45:733][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.13.45:766][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/AuraPlayerController] ([2] browsable assets)...
+[2024.11.22-02.13.45:767][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/AuraPlayerController]
+[2024.11.22-02.13.45:770][472]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/AuraPlayerController
+[2024.11.22-02.13.45:770][472]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/AuraPlayerControllerDA0815FD41506FD8A42B14A0141352AC.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Blueprints/Player/AuraPlayerController.uasset'
+[2024.11.22-02.13.45:785][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.468 ms (total: 1.30 sec)
+[2024.11.22-02.13.45:815][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.22-02.13.45:840][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.22-02.13.45:856][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.22-02.13.45:875][472]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.22-02.13.45:875][472]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.13.45:875][472]LogContentValidation: Enabled validators:
+[2024.11.22-02.13.45:875][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.13.45:875][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.13.45:875][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.13.45:875][472]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/AuraPlayerController.AuraPlayerController
+[2024.11.22-02.13.45:875][472]AssetCheck: /Game/Blueprints/Player/AuraPlayerController Validating asset
+[2024.11.22-02.14.28:777][245]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.14.28:777][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.14.28:831][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.22-02.14.31:909][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.14.31:949][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/AuraPlayerController] ([2] browsable assets)...
+[2024.11.22-02.14.31:949][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/AuraPlayerController]
+[2024.11.22-02.14.31:952][512]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/AuraPlayerController
+[2024.11.22-02.14.31:954][512]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/AuraPlayerController3F19D5E64F3652E9859649BA483DC1DC.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Blueprints/Player/AuraPlayerController.uasset'
+[2024.11.22-02.14.31:974][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.755 ms (total: 1.36 sec)
+[2024.11.22-02.14.32:014][512]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.14.32:014][512]LogContentValidation: Enabled validators:
+[2024.11.22-02.14.32:014][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.14.32:014][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.14.32:014][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.14.32:014][512]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/AuraPlayerController.AuraPlayerController
+[2024.11.22-02.14.32:014][512]AssetCheck: /Game/Blueprints/Player/AuraPlayerController Validating asset
+[2024.11.22-02.14.34:333][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.22-02.14.35:555][694]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.22-02.14.35:649][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.22-02.14.35:667][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.22-02.14.35:684][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.22-02.15.49:472][646]LogSlate: Window 'Message' being destroyed
+[2024.11.22-02.15.49:478][646]Message dialog closed, result: No, title: Message, text: Successfully added class 'AuraPlayerController', however you must recompile the 'Aura' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2024.11.22-02.15.49:479][646]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.22-02.15.52:902][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.11.22-02.16.00:757][ 18]LogSlate: Window 'Save Content' being destroyed
+[2024.11.22-02.16.00:766][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.16.00:810][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.22-02.16.00:858][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.22-02.16.00:869][ 18]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2024.11.22-02.16.00:870][ 18]LogSavePackage: Moving '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Saved/StartupMap02D294F64811B0A63FB4F491C684ABA2.tmp' to '../../../../../../Users/brenn/OneDrive/Documents/UnrealProjects/Aura/Content/Maps/StartupMap.umap'
+[2024.11.22-02.16.00:883][ 18]LogFileHelpers: Saving map 'StartupMap' took 0.075
+[2024.11.22-02.16.00:892][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.784 ms (total: 1.49 sec)
+[2024.11.22-02.16.00:920][ 18]LogStall: Shutdown...
+[2024.11.22-02.16.00:931][ 18]LogStall: Shutdown complete.
+[2024.11.22-02.16.01:049][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.22-02.16.01:049][ 18]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:049][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:137][ 18]LogSlate: Window 'Aura [DebugGame] - Unreal Editor' being destroyed
+[2024.11.22-02.16.01:309][ 18]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.16.01:309][ 18]LogContentValidation: Enabled validators:
+[2024.11.22-02.16.01:309][ 18]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.16.01:309][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.16.01:309][ 18]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.16.01:309][ 18]LogContentValidation: Display: Validating asset /Game/Maps/StartupMap.StartupMap
+[2024.11.22-02.16.01:309][ 18]AssetCheck: /Game/Maps/StartupMap Validating asset
+[2024.11.22-02.16.01:330][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.11.22-02.16.01:355][ 18]Cmd: QUIT_EDITOR
+[2024.11.22-02.16.01:356][ 18]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.11.22-02.16.01:360][ 19]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.11.22-02.16.01:361][ 19]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.11.22-02.16.01:362][ 19]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.11.22-02.16.01:365][ 19]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:365][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:365][ 19]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-02.16.01:365][ 19]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-02.16.01:390][ 19]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.11.22-02.16.01:422][ 19]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:422][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:425][ 19]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:425][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:427][ 19]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:427][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:429][ 19]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:429][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:432][ 19]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:432][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:434][ 19]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:434][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:437][ 19]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:437][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:439][ 19]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:439][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:442][ 19]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:442][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:444][ 19]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:444][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:446][ 19]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:446][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:448][ 19]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:448][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:450][ 19]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:450][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:452][ 19]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:452][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:453][ 19]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:453][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:455][ 19]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:455][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:457][ 19]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:457][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:459][ 19]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:459][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:461][ 19]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:461][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:463][ 19]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:463][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:465][ 19]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:465][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:467][ 19]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:467][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:469][ 19]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.16.01:469][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.16.01:642][ 19]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.11.22-02.16.01:655][ 19]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.11.22-02.16.01:655][ 19]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.11.22-02.16.01:655][ 19]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.11.22-02.16.02:478][ 19]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.11.22-02.16.02:478][ 19]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.11.22-02.16.02:478][ 19]LogAudio: Display: Audio Device unregistered from world 'StartupMap'.
+[2024.11.22-02.16.02:479][ 19]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.11.22-02.16.02:479][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.11.22-02.16.02:482][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.11.22-02.16.02:501][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.11.22-02.16.02:501][ 19]LogAudio: Display: Audio Device Manager Shutdown
+[2024.11.22-02.16.02:504][ 19]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.11.22-02.16.02:513][ 19]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.22-02.16.02:514][ 19]LogExit: Preparing to exit.
+[2024.11.22-02.16.02:569][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.11.22-02.16.02:575][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:591][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:603][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:605][ 19]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:606][ 19]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:606][ 19]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:606][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:606][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:607][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:607][ 19]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:607][ 19]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:607][ 19]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:608][ 19]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:609][ 19]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.02:609][ 19]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.22-02.16.03:422][ 19]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.11.22-02.16.03:525][ 19]LogExit: Editor shut down
+[2024.11.22-02.16.03:540][ 19]LogExit: Transaction tracking system shut down
+[2024.11.22-02.16.04:363][ 19]LogExit: Object subsystem successfully closed.
+[2024.11.22-02.16.04:424][ 19]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.22-02.16.05:287][ 19]MemoryProfiler: Shutdown
+[2024.11.22-02.16.05:287][ 19]NetworkingProfiler: Shutdown
+[2024.11.22-02.16.05:287][ 19]LoadingProfiler: Shutdown
+[2024.11.22-02.16.05:288][ 19]TimingProfiler: Shutdown
+[2024.11.22-02.16.05:623][ 19]LogOpenImageDenoise: OIDN shutting down
+[2024.11.22-02.16.06:901][ 19]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.11.22-02.16.06:945][ 19]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.11.22-02.16.06:945][ 19]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA23FF75F-4420-27D7-C594-CDB1090F6CE6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=69a166314f1ebc42349929a6ad15c09f%7C2eeb2a8ae97a4172a675942419d4107b%7C23547f59-5c87-4431-8c82-c1cb93fb3db0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.11.22-02.16.07:565][ 19]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.11.22-02.16.07:611][ 19]RenderDocPlugin: plugin has been unloaded.
+[2024.11.22-02.16.07:617][ 19]LogXGEController: Cleaning working directory: C:/Users/brenn/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.22-02.16.07:636][ 19]LogPakFile: Destroying PakPlatformFile
+[2024.11.22-02.16.08:284][ 19]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.11.22-02.16.08:307][ 19]LogExit: Exiting.
+[2024.11.22-02.16.08:355][ 19]Log file closed, 11/21/24 21:16:08
